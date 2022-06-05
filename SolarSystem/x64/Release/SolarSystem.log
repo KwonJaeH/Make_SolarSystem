@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Users\lg\source\repos\SolarSystem\SolarSystem\planet_info.h(27,44): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\lg\source\repos\SolarSystem\SolarSystem\main.cpp(120,46): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\lg\source\repos\SolarSystem\SolarSystem\main.cpp(121,45): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\lg\source\repos\SolarSystem\SolarSystem\main.cpp(124,44): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\lg\source\repos\SolarSystem\SolarSystem\main.cpp(125,48): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\lg\source\repos\SolarSystem\SolarSystem\main.cpp(159,35): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\lg\source\repos\SolarSystem\SolarSystem\main.cpp(166,39): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\lg\source\repos\SolarSystem\SolarSystem\main.cpp(173,37): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\lg\source\repos\SolarSystem\SolarSystem\main.cpp(180,37): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\lg\source\repos\SolarSystem\SolarSystem\main.cpp(187,36): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\lg\source\repos\SolarSystem\SolarSystem\main.cpp(194,39): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  14 of 363 functions ( 3.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    10 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  SolarSystem.vcxproj -> C:\Users\lg\source\repos\SolarSystem\x64\Release\SolarSystem.exe
