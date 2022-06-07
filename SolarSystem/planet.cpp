@@ -1,4 +1,4 @@
-#include "planet.h"
+#include "./includes/planet.h"
 
 // Planet
 void Planet::init_Color(glm::vec4 PlanetColor[]) {

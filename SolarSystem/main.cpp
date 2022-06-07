@@ -1,9 +1,9 @@
-#include "planet.h"	
-#include "planet_info.h"
-#include "makeSphere.h"
-#include "camera.h"
-#include "prcsLight.h"
-#include "textureMapping.h"
+#include "./includes/planet.h"	
+#include "./includes/planet_info.h"
+#include "./includes/makeSphere.h"
+#include "./includes/camera.h"
+#include "./includes/prcsLight.h"
+#include "./includes/textureMapping.h"
 #include "./common.c"
 
 using namespace Sphere;
@@ -16,8 +16,8 @@ const unsigned int WIN_H = 500;
 const unsigned int WIN_X = 100; // window position in pixels, (X, Y)
 const unsigned int WIN_Y = 100;
 
-const char* vertFileName = "planet.vert";
-const char* fragFileName = "planet.frag";
+const char* vertFileName = "./shader/planet.vert";
+const char* fragFileName = "./shader/planet.frag";
 
 
 GLuint vert = 0; // vertex shader ID number
